@@ -1,5 +1,5 @@
 {
-  "name": "assignment",
+  "name": "app.js",
   "version": "1.0.0",
   "description": "solution to express assignment",
   "main": "assignment.js",
@@ -11,5 +11,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Utkarsh Paliwal",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utkarshpaliwal9/Express-Demo-App.git"
+  },
+  "bugs": {
+    "url": "https://github.com/utkarshpaliwal9/Express-Demo-App/issues"
+  },
+  "homepage": "https://github.com/utkarshpaliwal9/Express-Demo-App#readme"
 }
